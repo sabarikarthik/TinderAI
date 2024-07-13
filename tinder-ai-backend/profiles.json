@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0b1273d4-ab2f-4edd-858b-6f1ff1071fb9",
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "age": 30,
+    "ethnicity": "White",
+    "gender": "FEMALE",
+    "bio": "Passionate about travel, photography, and new adventures. Always up for a good book and deep conversations. Let\u0027s explore the world together!",
+    "imageUrl": "0b1273d4-ab2f-4edd-858b-6f1ff1071fb9.jpg",
+    "myersBriggsPersonalityType": "ENFJ"
+  },
+  {
+    "id": "0c9655b1-f944-4869-b974-0e1aaf29757e",
+    "firstName": "Maya",
+    "lastName": "Smith",
+    "age": 25,
+    "ethnicity": "Black",
+    "gender": "FEMALE",
+    "bio": "Creative soul with a love for music and art. Enjoys outdoor activities and spontaneous road trips. Looking for someone to share life\u0027s beautiful moments.",
+    "imageUrl": "0c9655b1-f944-4869-b974-0e1aaf29757e.jpg",
+    "myersBriggsPersonalityType": "INFP"
+  },
+  {
+    "id": "0e985a4b-6944-4dec-b0f7-4a4453592dd0",
+    "firstName": "Sophia",
+    "lastName": "Lee",
+    "age": 28,
+    "ethnicity": "Asian",
+    "gender": "FEMALE",
+    "bio": "Tech enthusiast and foodie. I enjoy coding by day and exploring new cuisines by night. Let\u0027s create something amazing together!",
+    "imageUrl": "0e985a4b-6944-4dec-b0f7-4a4453592dd0.jpg",
+    "myersBriggsPersonalityType": "INTJ"
+  },
+  {
+    "id": "0e990f3a-7765-4441-a8a0-7c44995c394c",
+    "firstName": "Aisha",
+    "lastName": "Patel",
+    "age": 32,
+    "ethnicity": "Indian",
+    "gender": "FEMALE",
+    "bio": "Yoga instructor with a love for mindfulness and wellness. Enjoys reading and long walks in nature. Looking for someone who values inner peace.",
+    "imageUrl": "0e990f3a-7765-4441-a8a0-7c44995c394c.jpg",
+    "myersBriggsPersonalityType": "INFJ"
+  },
+  {
+    "id": "0eaa5932-be8c-48b0-b2b1-8dfe41002995",
+    "firstName": "Isabella",
+    "lastName": "Garcia",
+    "age": 24,
+    "ethnicity": "Hispanic",
+    "gender": "FEMALE",
+    "bio": "Salsa dancer and fitness fanatic. Love to laugh and live life to the fullest. Seeking someone who can keep up with my energy!",
+    "imageUrl": "0eaa5932-be8c-48b0-b2b1-8dfe41002995.jpg",
+    "myersBriggsPersonalityType": "ESFP"
+  }
+]
